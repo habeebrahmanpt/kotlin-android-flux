@@ -9,11 +9,11 @@ import android.support.v7.app.ActionBarDrawerToggle
 import android.support.v7.widget.Toolbar
 import android.view.Gravity
 import android.view.MenuItem
-import butterknife.bindView
 import com.jakewharton.rxbinding.support.v4.widget.drawerOpen
 import jp.satorufujiwara.kotlin.AbstractActivity
 import jp.satorufujiwara.kotlin.R
 import jp.satorufujiwara.kotlin.util.ext.setContentFragment
+import kotterknife.bindView
 import rx.Observable
 
 class MainActivity : AbstractActivity() {

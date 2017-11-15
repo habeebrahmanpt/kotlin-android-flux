@@ -17,9 +17,9 @@
                 android:value="GlideModule" />
 
         <!-- fabric -->
-        <meta-data
-                android:name="io.fabric.ApiKey"
-                android:value="" />
+        <!--<meta-data-->
+                <!--android:name="io.fabric.ApiKey"-->
+                <!--android:value="" />-->
 
         <activity
                 android:name=".ui.main.MainActivity"

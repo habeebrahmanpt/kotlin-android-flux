@@ -5,7 +5,7 @@ import android.support.v7.widget.RecyclerView
 import android.view.View
 import android.widget.RelativeLayout
 import android.widget.TextView
-import butterknife.bindView
+import kotterknife.bindView
 import jp.satorufujiwara.binder.recycler.RecyclerBinder
 import jp.satorufujiwara.kotlin.R
 
